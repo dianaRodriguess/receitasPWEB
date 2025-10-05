@@ -1,0 +1,36 @@
+
+.album {
+    font-size: 1.5em;
+    margin: 5px;
+    padding: 10px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+.tabela {
+    border-collapse: collapse;
+    margin-top: 20px;
+    width: 50%;
+    font-family: Arial, sans-serif;
+}
+.tabela th {
+    background-color: #4c93af;
+    color: white;
+    padding: 10px;
+    text-align: left;
+}
+.tabela td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+a {
+    padding: 15px;
+    text-decoration: underline;
+}
+a:hover {
+    list-style: u;
+    font-size: large;
+    color: #02a54c;
+}
